@@ -1,6 +1,7 @@
 # myquizzlerflutter
 
-A new Flutter application.
+Quizzler - A True/False Quiz App using Classes and Objects in Dart
+Online course by: https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart
 
 ## Getting Started
 
